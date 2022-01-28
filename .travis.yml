@@ -1,7 +1,7 @@
 
 os:
-  -linux
-  -osx
+  - linux
+  - osx
 
 language: python
 python:
